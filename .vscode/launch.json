@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NomeGrupoApplication<nomeGrupo>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "grupo.nomeGrupo.NomeGrupoApplication",
+            "projectName": "nomeGrupo",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
