@@ -3,7 +3,7 @@
 Este projeto é uma API simples para o sistema de gerenciamento de pessoas de uma universidade. A API permite criar, consultar, atualizar e deletar pessoas no sistema, com base de dados em MySQL.
 
 ## Integrantes do Grupo:
-Gabriel Augusto Ferreira
+Gabriel Augusto Ferreira: 01598721, Luiz Fellipe Nunes Sassaki: 01608282
 
 ## Tecnologias Utilizadas
 
